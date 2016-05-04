@@ -39,6 +39,8 @@ I DON'T KNOW THAT QUERY. PLEASE TRY:
 info
 blurb
 code_sample
+linkedin
+github
 ```
 UNKNOWN_STRING
 
