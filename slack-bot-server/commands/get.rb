@@ -27,6 +27,8 @@ BLURB_STRING
 ```
 Bomber Math: https://github.com/themcny/bomber-math
 I set up the server, socket logic, and most of the front-end.
+WhatzCookin: https://github.com/axblum/whatzcookin-rails
+I did most of the front-end and helped design the database schema and integrate the recipe finder API.
 ```
 CODE_STRING
 

@@ -42,7 +42,7 @@ $(document).ready(function() {
         code: code
       },
       success: function(data) {
-        SlackBotServer.message('Team successfully registered!<br><br>DM help to<b>@danbot</b> for a list of commands');
+        SlackBotServer.message('Team successfully registered!<br><br>DM help to <b>@danbot</b> for a list of commands');
       },
       error: SlackBotServer.error
     });
