@@ -3,18 +3,19 @@ module SlackBotServer
     class Help < SlackRubyBot::Commands::Base
       HELP = <<-EOS
 ```
-I AM DANBOT::HELP
+DANBOT::HELP
 
 COMMANDS:
 
-help
-get_info
-get_blurb
-get_code_sample
+help  -  list of commands
+get  -  return information based on queries below:
+        info
+        blurb
+        code_sample
 ```
 EOS
       def self.call(client, data, _match)
-        client.say(channel: data.channel, text: [HELP, SlackBotServer::INFO].join("\n"))
+        client.say(channel: data.channel, text: HELP)
         logger.info "HELP: #{client.owner}, user=#{data.user}"
       end
     end

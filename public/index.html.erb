@@ -5,24 +5,36 @@
   <script src="/scripts/url.min.js"></script>
   <script src="/scripts/register.js"></script>
   <script src="/scripts/stats.js"></script>
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Mono' rel='stylesheet' type='text/css'>
+  <style type="text/css">
+    body {
+      font-family: 'Roboto Mono', serif;
+      text-align: center;
+    }
+    footer {
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+      font-size: 10px;
+    }
+  </style>
 </head>
- <body style="text-align: center">
+<body>
   <p>
     <img src='img/slack.png' width="120px">
   </p>
   <p>
-    <h3>An opinionated boilerplate for a Slack bot service.</h3>
+    <h2>I AM DANBOT</h2>
+    <img src="img/robot-with-gears.png" height="200px">
   </p>
   <p id='messages' />
   <p id='register'>
     <a href="https://slack.com/oauth/authorize?scope=bot&client_id=<%= ENV['SLACK_CLIENT_ID'] %>"><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x"></a>
   </p>
-  <p id='active_teams_count'>&nbsp;</p>
-  <p>
-    <small>
-      made by <a href="https://twitter.com/dblockdotorg" target="_blank">@dblockdotorg</a>, <a href="https://github.com/dblock/slack-bot-server" target="_blank">fork me on github</a>
-    </small>
-  </p>
- </body>
+  <footer>
+    slack-bot-server by <a href="https://twitter.com/dblockdotorg" target="_blank">@dblockdotorg</a>, <a href="https://github.com/dblock/slack-bot-server" target="_blank"></a>
+    <div>Icon made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+  </footer>
+</body>
 </html>
 

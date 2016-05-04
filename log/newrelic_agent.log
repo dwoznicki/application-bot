@@ -351,3 +351,609 @@
 [2016-05-04 13:29:26 -0700 Maggies-MBP.attlocal.net (25842)] WARN : Agent configured not to send data in this environment.
 [2016-05-04 13:29:26 -0700 Maggies-MBP.attlocal.net (25842)] INFO : Doing deferred dependency-detection before Rack startup
 [2016-05-04 13:29:26 -0700 Maggies-MBP.attlocal.net (25842)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 13:30:39 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:30:39 -0700 Maggies-MBP.attlocal.net (25887)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:30:39 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:30:39 -0700 Maggies-MBP.attlocal.net (25887)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:30:39 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Environment: development
+[2016-05-04 13:30:39 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Dispatcher: unicorn
+[2016-05-04 13:30:39 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Application: SlackBotServer
+[2016-05-04 13:30:39 -0700 Maggies-MBP.attlocal.net (25887)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:30:39 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:30:39 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:30:39 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Installing Net instrumentation
+[2016-05-04 13:30:39 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:30:39 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:30:39 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Finished instrumentation
+[2016-05-04 13:30:40 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:30:40 -0700 Maggies-MBP.attlocal.net (25887)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:30:40 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:30:40 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Environment: development
+[2016-05-04 13:30:40 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Dispatcher: unicorn
+[2016-05-04 13:30:40 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Application: SlackBotServer
+[2016-05-04 13:30:40 -0700 Maggies-MBP.attlocal.net (25887)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:30:40 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 13:30:40 -0700 Maggies-MBP.attlocal.net (25887)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 13:33:55 -0700 Maggies-MBP.attlocal.net (25922)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:33:55 -0700 Maggies-MBP.attlocal.net (25922)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:33:55 -0700 Maggies-MBP.attlocal.net (25922)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:33:55 -0700 Maggies-MBP.attlocal.net (25922)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:33:55 -0700 Maggies-MBP.attlocal.net (25922)] INFO : Environment: development
+[2016-05-04 13:33:55 -0700 Maggies-MBP.attlocal.net (25922)] INFO : Dispatcher: unicorn
+[2016-05-04 13:33:55 -0700 Maggies-MBP.attlocal.net (25922)] INFO : Application: SlackBotServer
+[2016-05-04 13:33:55 -0700 Maggies-MBP.attlocal.net (25922)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:33:55 -0700 Maggies-MBP.attlocal.net (25922)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:33:55 -0700 Maggies-MBP.attlocal.net (25922)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:33:55 -0700 Maggies-MBP.attlocal.net (25922)] INFO : Installing Net instrumentation
+[2016-05-04 13:33:55 -0700 Maggies-MBP.attlocal.net (25922)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:33:55 -0700 Maggies-MBP.attlocal.net (25922)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:33:55 -0700 Maggies-MBP.attlocal.net (25922)] INFO : Finished instrumentation
+[2016-05-04 13:33:57 -0700 Maggies-MBP.attlocal.net (25928)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:33:57 -0700 Maggies-MBP.attlocal.net (25928)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:33:57 -0700 Maggies-MBP.attlocal.net (25928)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:33:57 -0700 Maggies-MBP.attlocal.net (25928)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:33:57 -0700 Maggies-MBP.attlocal.net (25928)] INFO : Environment: development
+[2016-05-04 13:33:57 -0700 Maggies-MBP.attlocal.net (25928)] INFO : Dispatcher: unicorn
+[2016-05-04 13:33:57 -0700 Maggies-MBP.attlocal.net (25928)] INFO : Application: SlackBotServer
+[2016-05-04 13:33:57 -0700 Maggies-MBP.attlocal.net (25928)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:33:57 -0700 Maggies-MBP.attlocal.net (25928)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:33:57 -0700 Maggies-MBP.attlocal.net (25928)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:33:57 -0700 Maggies-MBP.attlocal.net (25928)] INFO : Installing Net instrumentation
+[2016-05-04 13:33:57 -0700 Maggies-MBP.attlocal.net (25928)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:33:57 -0700 Maggies-MBP.attlocal.net (25928)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:33:57 -0700 Maggies-MBP.attlocal.net (25928)] INFO : Finished instrumentation
+[2016-05-04 13:33:59 -0700 Maggies-MBP.attlocal.net (25934)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:33:59 -0700 Maggies-MBP.attlocal.net (25934)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:33:59 -0700 Maggies-MBP.attlocal.net (25934)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:33:59 -0700 Maggies-MBP.attlocal.net (25934)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:33:59 -0700 Maggies-MBP.attlocal.net (25934)] INFO : Environment: development
+[2016-05-04 13:33:59 -0700 Maggies-MBP.attlocal.net (25934)] INFO : Dispatcher: unicorn
+[2016-05-04 13:33:59 -0700 Maggies-MBP.attlocal.net (25934)] INFO : Application: SlackBotServer
+[2016-05-04 13:33:59 -0700 Maggies-MBP.attlocal.net (25934)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:33:59 -0700 Maggies-MBP.attlocal.net (25934)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:33:59 -0700 Maggies-MBP.attlocal.net (25934)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:33:59 -0700 Maggies-MBP.attlocal.net (25934)] INFO : Installing Net instrumentation
+[2016-05-04 13:33:59 -0700 Maggies-MBP.attlocal.net (25934)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:33:59 -0700 Maggies-MBP.attlocal.net (25934)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:33:59 -0700 Maggies-MBP.attlocal.net (25934)] INFO : Finished instrumentation
+[2016-05-04 13:34:01 -0700 Maggies-MBP.attlocal.net (25940)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:34:01 -0700 Maggies-MBP.attlocal.net (25940)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:34:01 -0700 Maggies-MBP.attlocal.net (25940)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:34:01 -0700 Maggies-MBP.attlocal.net (25940)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:34:01 -0700 Maggies-MBP.attlocal.net (25940)] INFO : Environment: development
+[2016-05-04 13:34:01 -0700 Maggies-MBP.attlocal.net (25940)] INFO : Dispatcher: unicorn
+[2016-05-04 13:34:01 -0700 Maggies-MBP.attlocal.net (25940)] INFO : Application: SlackBotServer
+[2016-05-04 13:34:01 -0700 Maggies-MBP.attlocal.net (25940)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:34:01 -0700 Maggies-MBP.attlocal.net (25940)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:34:01 -0700 Maggies-MBP.attlocal.net (25940)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:34:01 -0700 Maggies-MBP.attlocal.net (25940)] INFO : Installing Net instrumentation
+[2016-05-04 13:34:01 -0700 Maggies-MBP.attlocal.net (25940)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:34:01 -0700 Maggies-MBP.attlocal.net (25940)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:34:01 -0700 Maggies-MBP.attlocal.net (25940)] INFO : Finished instrumentation
+[2016-05-04 13:34:03 -0700 Maggies-MBP.attlocal.net (25946)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:34:03 -0700 Maggies-MBP.attlocal.net (25946)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:34:03 -0700 Maggies-MBP.attlocal.net (25946)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:34:03 -0700 Maggies-MBP.attlocal.net (25946)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:34:03 -0700 Maggies-MBP.attlocal.net (25946)] INFO : Environment: development
+[2016-05-04 13:34:03 -0700 Maggies-MBP.attlocal.net (25946)] INFO : Dispatcher: unicorn
+[2016-05-04 13:34:03 -0700 Maggies-MBP.attlocal.net (25946)] INFO : Application: SlackBotServer
+[2016-05-04 13:34:03 -0700 Maggies-MBP.attlocal.net (25946)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:34:03 -0700 Maggies-MBP.attlocal.net (25946)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:34:03 -0700 Maggies-MBP.attlocal.net (25946)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:34:03 -0700 Maggies-MBP.attlocal.net (25946)] INFO : Installing Net instrumentation
+[2016-05-04 13:34:03 -0700 Maggies-MBP.attlocal.net (25946)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:34:03 -0700 Maggies-MBP.attlocal.net (25946)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:34:03 -0700 Maggies-MBP.attlocal.net (25946)] INFO : Finished instrumentation
+[2016-05-04 13:34:05 -0700 Maggies-MBP.attlocal.net (25952)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:34:05 -0700 Maggies-MBP.attlocal.net (25952)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:34:05 -0700 Maggies-MBP.attlocal.net (25952)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:34:05 -0700 Maggies-MBP.attlocal.net (25952)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:34:05 -0700 Maggies-MBP.attlocal.net (25952)] INFO : Environment: development
+[2016-05-04 13:34:05 -0700 Maggies-MBP.attlocal.net (25952)] INFO : Dispatcher: unicorn
+[2016-05-04 13:34:05 -0700 Maggies-MBP.attlocal.net (25952)] INFO : Application: SlackBotServer
+[2016-05-04 13:34:05 -0700 Maggies-MBP.attlocal.net (25952)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:34:05 -0700 Maggies-MBP.attlocal.net (25952)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:34:05 -0700 Maggies-MBP.attlocal.net (25952)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:34:05 -0700 Maggies-MBP.attlocal.net (25952)] INFO : Installing Net instrumentation
+[2016-05-04 13:34:05 -0700 Maggies-MBP.attlocal.net (25952)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:34:05 -0700 Maggies-MBP.attlocal.net (25952)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:34:05 -0700 Maggies-MBP.attlocal.net (25952)] INFO : Finished instrumentation
+[2016-05-04 13:34:07 -0700 Maggies-MBP.attlocal.net (25958)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:34:07 -0700 Maggies-MBP.attlocal.net (25958)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:34:07 -0700 Maggies-MBP.attlocal.net (25958)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:34:07 -0700 Maggies-MBP.attlocal.net (25958)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:34:07 -0700 Maggies-MBP.attlocal.net (25958)] INFO : Environment: development
+[2016-05-04 13:34:07 -0700 Maggies-MBP.attlocal.net (25958)] INFO : Dispatcher: unicorn
+[2016-05-04 13:34:07 -0700 Maggies-MBP.attlocal.net (25958)] INFO : Application: SlackBotServer
+[2016-05-04 13:34:07 -0700 Maggies-MBP.attlocal.net (25958)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:34:07 -0700 Maggies-MBP.attlocal.net (25958)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:34:07 -0700 Maggies-MBP.attlocal.net (25958)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:34:07 -0700 Maggies-MBP.attlocal.net (25958)] INFO : Installing Net instrumentation
+[2016-05-04 13:34:07 -0700 Maggies-MBP.attlocal.net (25958)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:34:07 -0700 Maggies-MBP.attlocal.net (25958)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:34:07 -0700 Maggies-MBP.attlocal.net (25958)] INFO : Finished instrumentation
+[2016-05-04 13:34:09 -0700 Maggies-MBP.attlocal.net (25964)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:34:09 -0700 Maggies-MBP.attlocal.net (25964)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:34:09 -0700 Maggies-MBP.attlocal.net (25964)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:34:09 -0700 Maggies-MBP.attlocal.net (25964)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:34:09 -0700 Maggies-MBP.attlocal.net (25964)] INFO : Environment: development
+[2016-05-04 13:34:09 -0700 Maggies-MBP.attlocal.net (25964)] INFO : Dispatcher: unicorn
+[2016-05-04 13:34:09 -0700 Maggies-MBP.attlocal.net (25964)] INFO : Application: SlackBotServer
+[2016-05-04 13:34:09 -0700 Maggies-MBP.attlocal.net (25964)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:34:09 -0700 Maggies-MBP.attlocal.net (25964)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:34:09 -0700 Maggies-MBP.attlocal.net (25964)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:34:09 -0700 Maggies-MBP.attlocal.net (25964)] INFO : Installing Net instrumentation
+[2016-05-04 13:34:09 -0700 Maggies-MBP.attlocal.net (25964)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:34:09 -0700 Maggies-MBP.attlocal.net (25964)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:34:09 -0700 Maggies-MBP.attlocal.net (25964)] INFO : Finished instrumentation
+[2016-05-04 13:34:49 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:34:49 -0700 Maggies-MBP.attlocal.net (25998)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:34:49 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:34:49 -0700 Maggies-MBP.attlocal.net (25998)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:34:49 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Environment: development
+[2016-05-04 13:34:49 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Dispatcher: unicorn
+[2016-05-04 13:34:49 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Application: SlackBotServer
+[2016-05-04 13:34:49 -0700 Maggies-MBP.attlocal.net (25998)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Installing Net instrumentation
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Finished instrumentation
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Environment: development
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Dispatcher: unicorn
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Application: SlackBotServer
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 13:34:50 -0700 Maggies-MBP.attlocal.net (25998)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 13:35:26 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:35:26 -0700 Maggies-MBP.attlocal.net (26031)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:35:26 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:35:26 -0700 Maggies-MBP.attlocal.net (26031)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:35:26 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Environment: development
+[2016-05-04 13:35:26 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Dispatcher: unicorn
+[2016-05-04 13:35:26 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Application: SlackBotServer
+[2016-05-04 13:35:26 -0700 Maggies-MBP.attlocal.net (26031)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:35:26 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:35:26 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:35:26 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Installing Net instrumentation
+[2016-05-04 13:35:26 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:35:26 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:35:26 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Finished instrumentation
+[2016-05-04 13:35:27 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:35:27 -0700 Maggies-MBP.attlocal.net (26031)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:35:27 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:35:27 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Environment: development
+[2016-05-04 13:35:27 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Dispatcher: unicorn
+[2016-05-04 13:35:27 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Application: SlackBotServer
+[2016-05-04 13:35:27 -0700 Maggies-MBP.attlocal.net (26031)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:35:27 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 13:35:27 -0700 Maggies-MBP.attlocal.net (26031)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Environment: development
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Dispatcher: unicorn
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Application: SlackBotServer
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Installing Net instrumentation
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Finished instrumentation
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Environment: development
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Dispatcher: unicorn
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Application: SlackBotServer
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 13:42:57 -0700 Maggies-MBP.attlocal.net (26084)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 13:44:00 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:44:00 -0700 Maggies-MBP.attlocal.net (26117)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:44:00 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:44:00 -0700 Maggies-MBP.attlocal.net (26117)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:44:00 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Environment: development
+[2016-05-04 13:44:00 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Dispatcher: unicorn
+[2016-05-04 13:44:00 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Application: SlackBotServer
+[2016-05-04 13:44:00 -0700 Maggies-MBP.attlocal.net (26117)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:44:00 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:44:00 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:44:00 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Installing Net instrumentation
+[2016-05-04 13:44:00 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:44:00 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:44:00 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Finished instrumentation
+[2016-05-04 13:44:01 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:44:01 -0700 Maggies-MBP.attlocal.net (26117)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:44:01 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:44:01 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Environment: development
+[2016-05-04 13:44:01 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Dispatcher: unicorn
+[2016-05-04 13:44:01 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Application: SlackBotServer
+[2016-05-04 13:44:01 -0700 Maggies-MBP.attlocal.net (26117)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:44:01 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 13:44:01 -0700 Maggies-MBP.attlocal.net (26117)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 13:45:17 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:45:17 -0700 Maggies-MBP.attlocal.net (26146)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:45:17 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:45:17 -0700 Maggies-MBP.attlocal.net (26146)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:45:17 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Environment: development
+[2016-05-04 13:45:17 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Dispatcher: unicorn
+[2016-05-04 13:45:17 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Application: SlackBotServer
+[2016-05-04 13:45:17 -0700 Maggies-MBP.attlocal.net (26146)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:45:17 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:45:17 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:45:17 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Installing Net instrumentation
+[2016-05-04 13:45:17 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:45:17 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:45:17 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Finished instrumentation
+[2016-05-04 13:45:18 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:45:18 -0700 Maggies-MBP.attlocal.net (26146)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:45:18 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:45:18 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Environment: development
+[2016-05-04 13:45:18 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Dispatcher: unicorn
+[2016-05-04 13:45:18 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Application: SlackBotServer
+[2016-05-04 13:45:18 -0700 Maggies-MBP.attlocal.net (26146)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:45:18 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 13:45:18 -0700 Maggies-MBP.attlocal.net (26146)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 13:45:36 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:45:36 -0700 Maggies-MBP.attlocal.net (26177)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:45:36 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:45:36 -0700 Maggies-MBP.attlocal.net (26177)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:45:36 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Environment: development
+[2016-05-04 13:45:36 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Dispatcher: unicorn
+[2016-05-04 13:45:36 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Application: SlackBotServer
+[2016-05-04 13:45:36 -0700 Maggies-MBP.attlocal.net (26177)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:45:36 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:45:36 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:45:36 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Installing Net instrumentation
+[2016-05-04 13:45:36 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:45:36 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:45:36 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Finished instrumentation
+[2016-05-04 13:45:37 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:45:37 -0700 Maggies-MBP.attlocal.net (26177)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:45:37 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:45:37 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Environment: development
+[2016-05-04 13:45:37 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Dispatcher: unicorn
+[2016-05-04 13:45:37 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Application: SlackBotServer
+[2016-05-04 13:45:37 -0700 Maggies-MBP.attlocal.net (26177)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:45:37 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 13:45:37 -0700 Maggies-MBP.attlocal.net (26177)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Environment: development
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Dispatcher: unicorn
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Application: SlackBotServer
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Installing Mongo instrumentation
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Installing Net instrumentation
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Finished instrumentation
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Environment: development
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Dispatcher: unicorn
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Application: SlackBotServer
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 13:46:32 -0700 Maggies-MBP.attlocal.net (26207)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 14:09:33 -0700 Maggies-MBP.attlocal.net (26315)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:09:33 -0700 Maggies-MBP.attlocal.net (26315)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:09:33 -0700 Maggies-MBP.attlocal.net (26315)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:09:33 -0700 Maggies-MBP.attlocal.net (26315)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 14:09:33 -0700 Maggies-MBP.attlocal.net (26315)] INFO : Environment: development
+[2016-05-04 14:09:33 -0700 Maggies-MBP.attlocal.net (26315)] INFO : Dispatcher: unicorn
+[2016-05-04 14:09:33 -0700 Maggies-MBP.attlocal.net (26315)] INFO : Application: SlackBotServer
+[2016-05-04 14:09:33 -0700 Maggies-MBP.attlocal.net (26315)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:09:33 -0700 Maggies-MBP.attlocal.net (26315)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 14:09:33 -0700 Maggies-MBP.attlocal.net (26315)] INFO : Installing Mongo instrumentation
+[2016-05-04 14:09:33 -0700 Maggies-MBP.attlocal.net (26315)] INFO : Installing Net instrumentation
+[2016-05-04 14:09:33 -0700 Maggies-MBP.attlocal.net (26315)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 14:09:33 -0700 Maggies-MBP.attlocal.net (26315)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 14:09:33 -0700 Maggies-MBP.attlocal.net (26315)] INFO : Finished instrumentation
+[2016-05-04 14:09:35 -0700 Maggies-MBP.attlocal.net (26321)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:09:35 -0700 Maggies-MBP.attlocal.net (26321)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:09:35 -0700 Maggies-MBP.attlocal.net (26321)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:09:35 -0700 Maggies-MBP.attlocal.net (26321)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 14:09:35 -0700 Maggies-MBP.attlocal.net (26321)] INFO : Environment: development
+[2016-05-04 14:09:35 -0700 Maggies-MBP.attlocal.net (26321)] INFO : Dispatcher: unicorn
+[2016-05-04 14:09:35 -0700 Maggies-MBP.attlocal.net (26321)] INFO : Application: SlackBotServer
+[2016-05-04 14:09:35 -0700 Maggies-MBP.attlocal.net (26321)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:09:35 -0700 Maggies-MBP.attlocal.net (26321)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 14:09:35 -0700 Maggies-MBP.attlocal.net (26321)] INFO : Installing Mongo instrumentation
+[2016-05-04 14:09:35 -0700 Maggies-MBP.attlocal.net (26321)] INFO : Installing Net instrumentation
+[2016-05-04 14:09:35 -0700 Maggies-MBP.attlocal.net (26321)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 14:09:35 -0700 Maggies-MBP.attlocal.net (26321)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 14:09:35 -0700 Maggies-MBP.attlocal.net (26321)] INFO : Finished instrumentation
+[2016-05-04 14:09:37 -0700 Maggies-MBP.attlocal.net (26327)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:09:37 -0700 Maggies-MBP.attlocal.net (26327)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:09:37 -0700 Maggies-MBP.attlocal.net (26327)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:09:37 -0700 Maggies-MBP.attlocal.net (26327)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 14:09:37 -0700 Maggies-MBP.attlocal.net (26327)] INFO : Environment: development
+[2016-05-04 14:09:37 -0700 Maggies-MBP.attlocal.net (26327)] INFO : Dispatcher: unicorn
+[2016-05-04 14:09:37 -0700 Maggies-MBP.attlocal.net (26327)] INFO : Application: SlackBotServer
+[2016-05-04 14:09:37 -0700 Maggies-MBP.attlocal.net (26327)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:09:37 -0700 Maggies-MBP.attlocal.net (26327)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 14:09:37 -0700 Maggies-MBP.attlocal.net (26327)] INFO : Installing Mongo instrumentation
+[2016-05-04 14:09:37 -0700 Maggies-MBP.attlocal.net (26327)] INFO : Installing Net instrumentation
+[2016-05-04 14:09:37 -0700 Maggies-MBP.attlocal.net (26327)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 14:09:37 -0700 Maggies-MBP.attlocal.net (26327)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 14:09:37 -0700 Maggies-MBP.attlocal.net (26327)] INFO : Finished instrumentation
+[2016-05-04 14:09:39 -0700 Maggies-MBP.attlocal.net (26333)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:09:39 -0700 Maggies-MBP.attlocal.net (26333)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:09:39 -0700 Maggies-MBP.attlocal.net (26333)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:09:39 -0700 Maggies-MBP.attlocal.net (26333)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 14:09:39 -0700 Maggies-MBP.attlocal.net (26333)] INFO : Environment: development
+[2016-05-04 14:09:39 -0700 Maggies-MBP.attlocal.net (26333)] INFO : Dispatcher: unicorn
+[2016-05-04 14:09:39 -0700 Maggies-MBP.attlocal.net (26333)] INFO : Application: SlackBotServer
+[2016-05-04 14:09:39 -0700 Maggies-MBP.attlocal.net (26333)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:09:39 -0700 Maggies-MBP.attlocal.net (26333)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 14:09:39 -0700 Maggies-MBP.attlocal.net (26333)] INFO : Installing Mongo instrumentation
+[2016-05-04 14:09:39 -0700 Maggies-MBP.attlocal.net (26333)] INFO : Installing Net instrumentation
+[2016-05-04 14:09:39 -0700 Maggies-MBP.attlocal.net (26333)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 14:09:39 -0700 Maggies-MBP.attlocal.net (26333)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 14:09:39 -0700 Maggies-MBP.attlocal.net (26333)] INFO : Finished instrumentation
+[2016-05-04 14:11:43 -0700 Maggies-MBP.attlocal.net (26369)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:11:43 -0700 Maggies-MBP.attlocal.net (26369)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:11:43 -0700 Maggies-MBP.attlocal.net (26369)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:11:43 -0700 Maggies-MBP.attlocal.net (26369)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 14:11:43 -0700 Maggies-MBP.attlocal.net (26369)] INFO : Environment: development
+[2016-05-04 14:11:43 -0700 Maggies-MBP.attlocal.net (26369)] INFO : Dispatcher: unicorn
+[2016-05-04 14:11:43 -0700 Maggies-MBP.attlocal.net (26369)] INFO : Application: SlackBotServer
+[2016-05-04 14:11:43 -0700 Maggies-MBP.attlocal.net (26369)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:11:43 -0700 Maggies-MBP.attlocal.net (26369)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 14:11:43 -0700 Maggies-MBP.attlocal.net (26369)] INFO : Installing Mongo instrumentation
+[2016-05-04 14:11:43 -0700 Maggies-MBP.attlocal.net (26369)] INFO : Installing Net instrumentation
+[2016-05-04 14:11:43 -0700 Maggies-MBP.attlocal.net (26369)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 14:11:43 -0700 Maggies-MBP.attlocal.net (26369)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 14:11:43 -0700 Maggies-MBP.attlocal.net (26369)] INFO : Finished instrumentation
+[2016-05-04 14:11:45 -0700 Maggies-MBP.attlocal.net (26375)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:11:45 -0700 Maggies-MBP.attlocal.net (26375)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:11:45 -0700 Maggies-MBP.attlocal.net (26375)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:11:45 -0700 Maggies-MBP.attlocal.net (26375)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 14:11:45 -0700 Maggies-MBP.attlocal.net (26375)] INFO : Environment: development
+[2016-05-04 14:11:45 -0700 Maggies-MBP.attlocal.net (26375)] INFO : Dispatcher: unicorn
+[2016-05-04 14:11:45 -0700 Maggies-MBP.attlocal.net (26375)] INFO : Application: SlackBotServer
+[2016-05-04 14:11:45 -0700 Maggies-MBP.attlocal.net (26375)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:11:45 -0700 Maggies-MBP.attlocal.net (26375)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 14:11:45 -0700 Maggies-MBP.attlocal.net (26375)] INFO : Installing Mongo instrumentation
+[2016-05-04 14:11:45 -0700 Maggies-MBP.attlocal.net (26375)] INFO : Installing Net instrumentation
+[2016-05-04 14:11:45 -0700 Maggies-MBP.attlocal.net (26375)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 14:11:45 -0700 Maggies-MBP.attlocal.net (26375)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 14:11:45 -0700 Maggies-MBP.attlocal.net (26375)] INFO : Finished instrumentation
+[2016-05-04 14:12:36 -0700 Maggies-MBP.attlocal.net (26406)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:12:36 -0700 Maggies-MBP.attlocal.net (26406)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:12:36 -0700 Maggies-MBP.attlocal.net (26406)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:12:36 -0700 Maggies-MBP.attlocal.net (26406)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 14:12:36 -0700 Maggies-MBP.attlocal.net (26406)] INFO : Environment: development
+[2016-05-04 14:12:36 -0700 Maggies-MBP.attlocal.net (26406)] INFO : Dispatcher: unicorn
+[2016-05-04 14:12:36 -0700 Maggies-MBP.attlocal.net (26406)] INFO : Application: SlackBotServer
+[2016-05-04 14:12:36 -0700 Maggies-MBP.attlocal.net (26406)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:12:36 -0700 Maggies-MBP.attlocal.net (26406)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 14:12:36 -0700 Maggies-MBP.attlocal.net (26406)] INFO : Installing Mongo instrumentation
+[2016-05-04 14:12:36 -0700 Maggies-MBP.attlocal.net (26406)] INFO : Installing Net instrumentation
+[2016-05-04 14:12:36 -0700 Maggies-MBP.attlocal.net (26406)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 14:12:36 -0700 Maggies-MBP.attlocal.net (26406)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 14:12:36 -0700 Maggies-MBP.attlocal.net (26406)] INFO : Finished instrumentation
+[2016-05-04 14:13:40 -0700 Maggies-MBP.attlocal.net (26442)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:13:40 -0700 Maggies-MBP.attlocal.net (26442)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:13:40 -0700 Maggies-MBP.attlocal.net (26442)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:13:40 -0700 Maggies-MBP.attlocal.net (26442)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 14:13:40 -0700 Maggies-MBP.attlocal.net (26442)] INFO : Environment: development
+[2016-05-04 14:13:40 -0700 Maggies-MBP.attlocal.net (26442)] INFO : Dispatcher: unicorn
+[2016-05-04 14:13:40 -0700 Maggies-MBP.attlocal.net (26442)] INFO : Application: SlackBotServer
+[2016-05-04 14:13:40 -0700 Maggies-MBP.attlocal.net (26442)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:13:40 -0700 Maggies-MBP.attlocal.net (26442)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 14:13:40 -0700 Maggies-MBP.attlocal.net (26442)] INFO : Installing Mongo instrumentation
+[2016-05-04 14:13:40 -0700 Maggies-MBP.attlocal.net (26442)] INFO : Installing Net instrumentation
+[2016-05-04 14:13:40 -0700 Maggies-MBP.attlocal.net (26442)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 14:13:40 -0700 Maggies-MBP.attlocal.net (26442)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 14:13:40 -0700 Maggies-MBP.attlocal.net (26442)] INFO : Finished instrumentation
+[2016-05-04 14:14:14 -0700 Maggies-MBP.attlocal.net (26478)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:14:14 -0700 Maggies-MBP.attlocal.net (26478)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:14:14 -0700 Maggies-MBP.attlocal.net (26478)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:14:14 -0700 Maggies-MBP.attlocal.net (26478)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 14:14:14 -0700 Maggies-MBP.attlocal.net (26478)] INFO : Environment: development
+[2016-05-04 14:14:14 -0700 Maggies-MBP.attlocal.net (26478)] INFO : Dispatcher: unicorn
+[2016-05-04 14:14:14 -0700 Maggies-MBP.attlocal.net (26478)] INFO : Application: SlackBotServer
+[2016-05-04 14:14:14 -0700 Maggies-MBP.attlocal.net (26478)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:14:14 -0700 Maggies-MBP.attlocal.net (26478)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 14:14:14 -0700 Maggies-MBP.attlocal.net (26478)] INFO : Installing Mongo instrumentation
+[2016-05-04 14:14:14 -0700 Maggies-MBP.attlocal.net (26478)] INFO : Installing Net instrumentation
+[2016-05-04 14:14:14 -0700 Maggies-MBP.attlocal.net (26478)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 14:14:14 -0700 Maggies-MBP.attlocal.net (26478)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 14:14:14 -0700 Maggies-MBP.attlocal.net (26478)] INFO : Finished instrumentation
+[2016-05-04 14:15:41 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:15:41 -0700 Maggies-MBP.attlocal.net (26517)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:15:41 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:15:41 -0700 Maggies-MBP.attlocal.net (26517)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 14:15:41 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Environment: development
+[2016-05-04 14:15:41 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Dispatcher: unicorn
+[2016-05-04 14:15:41 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Application: SlackBotServer
+[2016-05-04 14:15:41 -0700 Maggies-MBP.attlocal.net (26517)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:15:41 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 14:15:41 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Installing Mongo instrumentation
+[2016-05-04 14:15:41 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Installing Net instrumentation
+[2016-05-04 14:15:41 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 14:15:41 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 14:15:41 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Finished instrumentation
+[2016-05-04 14:15:42 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:15:42 -0700 Maggies-MBP.attlocal.net (26517)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:15:42 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:15:42 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Environment: development
+[2016-05-04 14:15:42 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Dispatcher: unicorn
+[2016-05-04 14:15:42 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Application: SlackBotServer
+[2016-05-04 14:15:42 -0700 Maggies-MBP.attlocal.net (26517)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:15:42 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 14:15:42 -0700 Maggies-MBP.attlocal.net (26517)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 14:16:59 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:16:59 -0700 Maggies-MBP.attlocal.net (26549)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:16:59 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:16:59 -0700 Maggies-MBP.attlocal.net (26549)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 14:16:59 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Environment: development
+[2016-05-04 14:16:59 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Dispatcher: unicorn
+[2016-05-04 14:16:59 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Application: SlackBotServer
+[2016-05-04 14:16:59 -0700 Maggies-MBP.attlocal.net (26549)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:16:59 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 14:16:59 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Installing Mongo instrumentation
+[2016-05-04 14:16:59 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Installing Net instrumentation
+[2016-05-04 14:16:59 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 14:16:59 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 14:16:59 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Finished instrumentation
+[2016-05-04 14:17:00 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:17:00 -0700 Maggies-MBP.attlocal.net (26549)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:17:00 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:17:00 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Environment: development
+[2016-05-04 14:17:00 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Dispatcher: unicorn
+[2016-05-04 14:17:00 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Application: SlackBotServer
+[2016-05-04 14:17:00 -0700 Maggies-MBP.attlocal.net (26549)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:17:00 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 14:17:00 -0700 Maggies-MBP.attlocal.net (26549)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 14:26:42 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:26:42 -0700 Maggies-MBP.attlocal.net (26595)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:26:42 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:26:42 -0700 Maggies-MBP.attlocal.net (26595)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 14:26:42 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Environment: development
+[2016-05-04 14:26:42 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Dispatcher: unicorn
+[2016-05-04 14:26:42 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Application: SlackBotServer
+[2016-05-04 14:26:42 -0700 Maggies-MBP.attlocal.net (26595)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:26:42 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 14:26:42 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Installing Mongo instrumentation
+[2016-05-04 14:26:42 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Installing Net instrumentation
+[2016-05-04 14:26:42 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 14:26:42 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 14:26:42 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Finished instrumentation
+[2016-05-04 14:26:43 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:26:43 -0700 Maggies-MBP.attlocal.net (26595)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:26:43 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:26:43 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Environment: development
+[2016-05-04 14:26:43 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Dispatcher: unicorn
+[2016-05-04 14:26:43 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Application: SlackBotServer
+[2016-05-04 14:26:43 -0700 Maggies-MBP.attlocal.net (26595)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:26:43 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 14:26:43 -0700 Maggies-MBP.attlocal.net (26595)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 14:55:11 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:55:11 -0700 Maggies-MBP.attlocal.net (26684)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:55:11 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:55:11 -0700 Maggies-MBP.attlocal.net (26684)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 14:55:11 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Environment: development
+[2016-05-04 14:55:11 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Dispatcher: unicorn
+[2016-05-04 14:55:11 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Application: SlackBotServer
+[2016-05-04 14:55:11 -0700 Maggies-MBP.attlocal.net (26684)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:55:11 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 14:55:11 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Installing Mongo instrumentation
+[2016-05-04 14:55:11 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Installing Net instrumentation
+[2016-05-04 14:55:11 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 14:55:11 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 14:55:11 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Finished instrumentation
+[2016-05-04 14:55:12 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 14:55:12 -0700 Maggies-MBP.attlocal.net (26684)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 14:55:12 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 14:55:12 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Environment: development
+[2016-05-04 14:55:12 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Dispatcher: unicorn
+[2016-05-04 14:55:12 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Application: SlackBotServer
+[2016-05-04 14:55:12 -0700 Maggies-MBP.attlocal.net (26684)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 14:55:12 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 14:55:12 -0700 Maggies-MBP.attlocal.net (26684)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 15:21:20 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 15:21:20 -0700 Maggies-MBP.attlocal.net (26819)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 15:21:20 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 15:21:20 -0700 Maggies-MBP.attlocal.net (26819)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 15:21:20 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Environment: development
+[2016-05-04 15:21:20 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Dispatcher: unicorn
+[2016-05-04 15:21:20 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Application: SlackBotServer
+[2016-05-04 15:21:20 -0700 Maggies-MBP.attlocal.net (26819)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 15:21:20 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 15:21:20 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Installing Mongo instrumentation
+[2016-05-04 15:21:20 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Installing Net instrumentation
+[2016-05-04 15:21:20 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 15:21:20 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 15:21:20 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Finished instrumentation
+[2016-05-04 15:21:21 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 15:21:21 -0700 Maggies-MBP.attlocal.net (26819)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 15:21:21 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 15:21:21 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Environment: development
+[2016-05-04 15:21:21 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Dispatcher: unicorn
+[2016-05-04 15:21:21 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Application: SlackBotServer
+[2016-05-04 15:21:21 -0700 Maggies-MBP.attlocal.net (26819)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 15:21:21 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 15:21:21 -0700 Maggies-MBP.attlocal.net (26819)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Environment: development
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Dispatcher: unicorn
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Application: SlackBotServer
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Installing Mongo instrumentation
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Installing Net instrumentation
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Finished instrumentation
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Environment: development
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Dispatcher: unicorn
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Application: SlackBotServer
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 15:26:05 -0700 Maggies-MBP.attlocal.net (26836)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Environment: development
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Dispatcher: unicorn
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Application: SlackBotServer
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Installing Mongo instrumentation
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Installing Net instrumentation
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Finished instrumentation
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Environment: development
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Dispatcher: unicorn
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Application: SlackBotServer
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 15:27:08 -0700 Maggies-MBP.attlocal.net (26843)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Environment: development
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Dispatcher: unicorn
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Application: SlackBotServer
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Installing Mongo instrumentation
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Installing Net instrumentation
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Finished instrumentation
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Reading configuration from config/newrelic.yml (/Users/dwoznicki/Projects/danbot)
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Environment: development
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Dispatcher: unicorn
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Application: SlackBotServer
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] WARN : Agent configured not to send data in this environment.
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-04 15:28:11 -0700 Maggies-MBP.attlocal.net (26850)] INFO : Installing New Relic supported SlackRubyBot instrumentation
