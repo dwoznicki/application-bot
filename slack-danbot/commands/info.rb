@@ -3,7 +3,7 @@ module SlackDanbot
     class Info < SlackRubyBot::Commands::Base
 
       command 'get_basic_info' do |client, data, _match|
-        client.say(channel: data.channel, text: "TESTING")
+        client.say(channel: data.channel, text: "TESTING!")
       end
 
       command 'get_blurb' do |client, data, _math|
