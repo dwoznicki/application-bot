@@ -2,11 +2,15 @@ module SlackDanbot
   module Commands
     class Info < SlackRubyBot::Commands::Base
 
+      command 'help' do |client, data, _match|
+
+      end
+
       command 'get_basic_info' do |client, data, _match|
         client.say(channel: data.channel, text: "TESTING!")
       end
 
-      command 'get_blurb' do |client, data, _math|
+      command 'get_blurb' do |client, data, _match|
 
       end
 
