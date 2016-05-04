@@ -50,6 +50,10 @@ UNKNOWN_STRING
       		response = blurb
       	when "code_sample"
       		response = code
+      	when "linkedin"
+      		response = "`https://www.linkedin.com/in/dwoznicki`"
+      	when "github"
+      		response = "`https://github.com/dwoznicki`"
       	else
       		response = unknown
       	end

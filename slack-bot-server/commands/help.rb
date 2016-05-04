@@ -12,6 +12,8 @@ get  -  return information based on queries below:
         info
         blurb
         code_sample
+        linkedin
+        github
 ```
 EOS
       def self.call(client, data, _match)
