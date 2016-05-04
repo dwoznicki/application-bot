@@ -1,21 +1,26 @@
 $LOAD_PATH.unshift(File.dirname(__FILE__))
 
-require 'dotenv'
-Dotenv.load
+require 'slack-bot-server'
 
-require 'slack-danbot'
-require 'web'
+if ENV['RACK_ENV'] == 'development'
+  puts 'Loading NewRelic in developer mode ...'
+  require 'new_relic/rack/developer_mode'
+  use NewRelic::Rack::DeveloperMode
+end
+
+NewRelic::Agent.manual_start
+
+SlackBotServer::App.instance.prepare!
 
 Thread.abort_on_exception = true
 
 Thread.new do
-  begin
-    SlackDanbot::Bot.run
-  rescue Exception => e
-    STDERR.puts "ERROR: #{e}"
-    STDERR.puts e.backtrace
-    raise e
+  EM.run do
+    Thread.pass until EM.reactor_running?
+    EM.next_tick do
+      SlackBotServer::Service.start_from_database!
+    end
   end
 end
 
-run SlackDanbot::Web
+run Api::Middleware.instance
